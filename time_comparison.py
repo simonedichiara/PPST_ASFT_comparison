@@ -2,6 +2,7 @@ from datetime import datetime
 import sys
 
 ##adding a comment to test
+## second test comment
 
 def parse_file(filename):
     data = {}
